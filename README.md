@@ -5,4 +5,4 @@
 Another loading screen animation to be used in my React Native app. 
 
 ## Demo
-Demo site: [Loading-Image]()
+Demo site: [Loading-Image](https://jhgarrett.github.io/loading-image/)
